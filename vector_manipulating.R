@@ -1,0 +1,11 @@
+x<-1:20
+y<-x[(x%%3==0)]
+z<-x[x%%2==0]
+wz<-union(y,z)
+print(wz)
+yz<-intersect(y,z)
+yz
+w<-1:20
+c=diff(range(w))
+print(c)
+w[w%%2==0]
