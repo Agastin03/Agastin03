@@ -39,7 +39,6 @@ I am an **AI/ML Developer** passionate about building intelligent, real-world ap
 | Project | Description | Core Tech Stack |
 | :--- | :--- | :--- |
 | 📄 **[PDF RAG System with Image Retrieval](https://github.com/Agastin03/PDF-RAG-System-with-Screenshot-Based-Image-Retrieval-via-Groq-GPT-4o-mini-CLIP)** | Multi-modal RAG system enabling text & screenshot image retrieval from documents | Groq, GPT-4o-mini, CLIP, ChromaDB |
-| 🤖 **AI Career Advisor Chatbot** | Interactive conversational agent offering personalized career pathing and skill mapping | LLMs, LangChain, FastAPI |
 | 🧠 **[AI Story-to-Logic Converter](https://github.com/Agastin03/AI-Story-to-Logic-Converter)** | Automated conversion engine translating narrative text into structured logical representations | Python, LLMs, LangChain |
 | 👥 **[Smart Talent Acquisition System](https://github.com/Agastin03/Smart-Talent-Acquisition-System)** | AI-driven resume screening and candidate evaluation platform | Machine Learning, Streamlit, NLP |
 
@@ -51,15 +50,6 @@ I am an **AI/ML Developer** passionate about building intelligent, real-world ap
 - 🔌 **Model Context Protocol (MCP)** for seamless LLM context & tool integration
 - 📚 **Advanced RAG Architectures** (Hybrid search, re-ranking, & contextual retrieval)
 - ⚡ **AI SaaS Applications & Scalable Deployment**
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agastin03&show_icons=true&theme=radial&hide_border=true" alt="Agastin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agastin03&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</div>
 
 ---
 
